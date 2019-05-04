@@ -13,4 +13,4 @@ public class GifController {
         return "List of all the GIFs!";
 
     }
-}
+}  // GifController class
