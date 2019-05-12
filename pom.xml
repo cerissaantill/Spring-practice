@@ -55,7 +55,7 @@
         </dependency>
 
 
-        <!-- thymeleaf -->
+        <!-- thymeleaf -->   <!-- NOT working in Maven side menu -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
